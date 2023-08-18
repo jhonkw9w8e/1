@@ -1,0 +1,6 @@
+str(input("Digite su nombre"))
+str(input("Digite su numero de telefono"))
+boton=int(input())
+str(input("Seleccione un destino"))
+int(input("Introduzca un identificador personal"))
+str(input("la transaccion fue exitosa"))
